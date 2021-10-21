@@ -22,3 +22,4 @@ How can we provide an easier way for investors to understand?
 * Provided graphical visualizations to easily show projected risk and reward.
 * Automation of investment amount still to be added.
 
+Google Slides presentation : https://docs.google.com/presentation/d/1uMtJCe9mUIqampdjrdKS0zzauTwo8sES6sK4ZjCdpHY/edit?usp=sharing
